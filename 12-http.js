@@ -1,3 +1,7 @@
+// how to run
+// run the file
+// go to web write localhost:port_name
+
 const http = require("http");
 
 const server = http.createServer((req, res) => {

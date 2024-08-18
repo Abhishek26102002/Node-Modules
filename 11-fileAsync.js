@@ -26,3 +26,6 @@ readFile("./folder/first.txt", "utf-8", (err, result) => {
     );
   });
 });
+
+
+// this method is better as after first task ill go on next task running first in background
